@@ -1,5 +1,5 @@
 # synctest
-mgit同步测试用的仓库
+mgit同步测试用的仓库，使用不带.git的url
 
 2022-04-29 创建
 
